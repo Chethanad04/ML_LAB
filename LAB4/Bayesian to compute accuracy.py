@@ -3,7 +3,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.naive_bayes import GaussianNB
 from sklearn import metrics
 
-df = pd.read_csv("data1.csv")
+df = pd.read_csv("data.csv")
 feature_col_names = ['num_preg', 'glucose_conc', 'diastolic_bp', 'thickness', 'insulin', 'bmi', 'diab_pred', 'age']
 predicted_class_names = ['diabetes']
 
