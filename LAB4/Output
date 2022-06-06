@@ -1,0 +1,14 @@
+ the total number of Training Data : (514, 1)
+
+ the total number of Test Data : (254, 1)
+
+ Confusion matrix
+[[143  20]
+ [ 33  58]]
+
+ Accuracy of the classifier is 0.7913385826771654
+
+ The value of Precision 0.7435897435897436
+
+ The value of Recall 0.6373626373626373
+Predicted Value for individual Test Data: [1]
